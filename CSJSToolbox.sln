@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSJSHandler", "CSJSHandler\CSJSHandler.csproj", "{15A6EBE5-4866-4FAD-A7BE-CD028CA0587D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example", "Example\Example.csproj", "{B1AFE10D-46CD-4464-98E6-B8F24F34FEBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSJSTools", "CSJSTools\CSJSTools.csproj", "{04FEFD47-CD0E-4629-9B69-F88614C4B40F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15A6EBE5-4866-4FAD-A7BE-CD028CA0587D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15A6EBE5-4866-4FAD-A7BE-CD028CA0587D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15A6EBE5-4866-4FAD-A7BE-CD028CA0587D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15A6EBE5-4866-4FAD-A7BE-CD028CA0587D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1AFE10D-46CD-4464-98E6-B8F24F34FEBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1AFE10D-46CD-4464-98E6-B8F24F34FEBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1AFE10D-46CD-4464-98E6-B8F24F34FEBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1AFE10D-46CD-4464-98E6-B8F24F34FEBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04FEFD47-CD0E-4629-9B69-F88614C4B40F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04FEFD47-CD0E-4629-9B69-F88614C4B40F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04FEFD47-CD0E-4629-9B69-F88614C4B40F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04FEFD47-CD0E-4629-9B69-F88614C4B40F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
